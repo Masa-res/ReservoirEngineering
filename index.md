@@ -3,7 +3,7 @@
 今後少しずつ追加していく予定です。
 
 1. [数学、プログラミングなど][link1]
-    1. 自動微分と応用例
+    1. [自動微分と応用例][link2]
 2. 熱力学（未作成）
 3. 油層工学の基礎（未作成）
 4. 相挙動（未作成）
@@ -12,3 +12,4 @@
 7. 地質統計学（未作成）
 
 [link1]:/ReservoirEngineering/MathProgram/
+[link2]:/ReservoirEngineering/MathProgram/Autodiff.html
