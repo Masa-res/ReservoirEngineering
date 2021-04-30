@@ -1,3 +1,4 @@
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
 # ガウスの発散定理
 ガウスの発散定理は連続な1階の偏導関数を有するベクトル場に対して成り立つ定理である。
 なお、このホームページではベクトル場の発散は以下のように定義する流儀に従う。

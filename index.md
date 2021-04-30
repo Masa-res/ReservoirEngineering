@@ -18,5 +18,6 @@
 石油工学では数式に単位変換のための数値がつきまとい、個人的にあまり好みではない。
 このホームページに記載される数式は単位は文字に含まれるという流儀を採用し、単位については触れていない。
 
+
 [link1]:/ReservoirEngineering/MathProgram/
 [link2]:/ReservoirEngineering/MathProgram/Autodiff.html
