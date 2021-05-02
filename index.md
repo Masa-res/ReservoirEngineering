@@ -1,11 +1,13 @@
 # Reservoir Engineering 備忘録
-現在まだ作成中です。
 今後少しずつ追加していく予定です。
 
 1. [数学、プログラミングなど][link1]
     1. [自動微分と応用例][link2]
+    2. [ガウスの発散定理][link3]
+    3. [質量保存則][link4]
 2. 熱力学（未作成）
-3. 油層工学の基礎（未作成）
+3. [油層工学の基礎][link5]
+    1. [Buckley-Leverett Method][link6]
 4. 相挙動（未作成）
 5. 坑井試験解析（未作成）
 6. 油層シミュレーション（未作成）
@@ -21,3 +23,7 @@
 
 [link1]:/ReservoirEngineering/MathProgram/
 [link2]:/ReservoirEngineering/MathProgram/Autodiff.html
+[link3]:/ReservoirEngineering/MathProgram/Gauss_div.html
+[link4]:/ReservoirEngineering/MathProgram/MassConservation.html
+[link5]:/ReservoirEngineering/ResEngFund/
+[link6]:/ReservoirEngineering/ResEngFund/BuckleyLeverett.html
